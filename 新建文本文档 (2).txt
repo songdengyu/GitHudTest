@@ -2,4 +2,5 @@ asdasd
 <<<<<<< HEAD
 rrrr
 =======
+ddd
 >>>>>>> SDY
