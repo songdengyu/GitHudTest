@@ -1,6 +1,2 @@
 asdasd
-<<<<<<< HEAD
-rrrr
-=======
-ddd
->>>>>>> SDY
+qqqq
