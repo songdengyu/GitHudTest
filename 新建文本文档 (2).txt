@@ -1,2 +1,4 @@
 asdasd
-ssss
+<<<<<<< HEAD
+=======
+>>>>>>> 3ea2484aea5cb9d9ebdacaf2a6d47d0b24d86e16
